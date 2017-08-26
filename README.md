@@ -4,7 +4,7 @@ Survival Analysis on CRC samples subsetted by different oncology progression.
 RICHIEDE : 
 - Ruby
 - R
-- PiCnIc (o dati ottenuti da esso)
+- PiCnIc (o dati ottenuti da esso) (https://sites.google.com/site/troncopackage/picnic)
 
 TESTATO SU : Rstudio 1.0.143 con R 3.4 / R 3.4.1 e Ruby 2.3
 
