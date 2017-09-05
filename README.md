@@ -9,5 +9,7 @@ To do the same experience make sure you have :
 Then open the project and run SurvivalAnalysisMain.R
 
 The project folder contain also a little relation that explain the results and a readme that explan what each object created by the program is, but they are in italian languages. 
+
 The main folder contain also a theoric pdf 'SurvivalAnalysis.pdf' that is a detailed summary of Survival Analysis, as the relation it is in italian language.
+
 For italian to english translation of the precedent files write to me at : mattiap155@gmail.com
